@@ -1,0 +1,27 @@
+resume-matcher/
+│
+├── .env.example
+├── .gitignore
+├── README.md
+├── requirements.txt
+│
+├── app/
+│   ├── main.py
+│   └── database.py
+│
+├── core/
+│   ├── parser.py
+│   ├── embedder.py
+│   ├── matcher.py
+│   └── skills.py
+│
+├── data/
+│   ├── resumes/            (empty folder)
+│   └── job_descriptions/   (empty folder)
+│
+├── uploads/                (empty folder)
+│
+├── scripts/
+│   └── batch_matcher.py
+│
+└── Dockerfile              (optional)

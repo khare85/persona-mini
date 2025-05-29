@@ -1,0 +1,7 @@
+QDRANT_URL=https://your-cluster-id.qdrant.io:6333 
+QDRANT_API_KEY=your-api-key-here
+
+EMBEDDING_MODEL=all-MiniLM-L6-v2
+
+UPLOAD_DIR=uploads
+MAX_RESUME_SIZE_MB=10
